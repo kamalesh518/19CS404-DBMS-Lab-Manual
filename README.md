@@ -29,3 +29,18 @@
          - Paste a **screenshot or terminal output** below it
 3. Commit and push your changes.
 4. Create a pull request to the original repository
+
+### ✅ Experiments List
+
+| Exp No | Title                          | Module Based? |
+|--------|--------------------------------|---------------|
+| 1      | ER Diagram                     | No            |
+| 2      | DDL Commands                   | Yes           |
+| 3      | DML Commands                   | Yes           |
+| 4      | Aggregate, GROUP BY, HAVING   | Yes           |
+| 5      | Subqueries and Views          | Yes           |
+| 6      | Joins                         | Yes           |
+| 7      | Pl/sql                        | No            |
+| 8      | Procedures, Functions         | No            |
+| 9      | Cursors, Exception Handling   | No            |
+| 10     | Triggers                      | No            |
