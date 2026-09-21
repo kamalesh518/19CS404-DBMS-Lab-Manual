@@ -12,7 +12,7 @@ README.md
 
 This file contains:
 
-🎯 Aim
+🎯 AimA
 📚 Theory
 📝 Result
 You do not need to edit this file unless instructed.
